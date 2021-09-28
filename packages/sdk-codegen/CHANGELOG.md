@@ -5,6 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [21.1.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-v21.0.25...sdk-codegen-v21.1.0) (2021-09-28)
+
+
+### Features
+
+* closest path match for API Explorer ([#811](https://www.github.com/looker-open-source/sdk-codegen/issues/811)) ([45fd26f](https://www.github.com/looker-open-source/sdk-codegen/commit/45fd26fb0f325fa90edfec72f835ed3a79b9afeb))
+* Update Kotlin SDK to use Gson instead of Jackson ([#836](https://www.github.com/looker-open-source/sdk-codegen/issues/836)) ([4d1f789](https://www.github.com/looker-open-source/sdk-codegen/commit/4d1f789fa3b97b0808f06d5d547c96de3ca890ff))
+
+
+### Bug Fixes
+
+* intrinsic type params are not Partial<T> ([#819](https://www.github.com/looker-open-source/sdk-codegen/issues/819)) ([4b31490](https://www.github.com/looker-open-source/sdk-codegen/commit/4b31490f7ce5c9593854e56518245c5399ea9548))
+* Property names with special characters in Kotlin SDK ([#838](https://www.github.com/looker-open-source/sdk-codegen/issues/838)) ([40b6b24](https://www.github.com/looker-open-source/sdk-codegen/commit/40b6b24bfedf8ba16b5dbae2abbbdce2f73c1ffd))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @looker/sdk-rtl bumped from ^21.0.20 to ^21.1.0
+
 ### [21.0.25](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-v21.0.24...sdk-codegen-v21.0.25) (2021-09-01)
 
 

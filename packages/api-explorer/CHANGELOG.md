@@ -5,6 +5,34 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+### [0.9.20](https://www.github.com/looker-open-source/sdk-codegen/compare/api-explorer-v0.9.19...api-explorer-v0.9.20) (2021-09-28)
+
+
+### Features
+
+* closest path match for API Explorer ([#811](https://www.github.com/looker-open-source/sdk-codegen/issues/811)) ([45fd26f](https://www.github.com/looker-open-source/sdk-codegen/commit/45fd26fb0f325fa90edfec72f835ed3a79b9afeb))
+* lots of RunIt form cleanup ([#814](https://www.github.com/looker-open-source/sdk-codegen/issues/814)) ([e92eae8](https://www.github.com/looker-open-source/sdk-codegen/commit/e92eae8fc127a0aa99545ca9c577152c08d59000))
+
+
+### Bug Fixes
+
+* Extension Api Explorer markdown link clicks ([#830](https://www.github.com/looker-open-source/sdk-codegen/issues/830)) ([dd8a3f0](https://www.github.com/looker-open-source/sdk-codegen/commit/dd8a3f03b8ea03858271bf55307c7d359631455a))
+* Sidenav selection ([#831](https://www.github.com/looker-open-source/sdk-codegen/issues/831)) ([52e3ef3](https://www.github.com/looker-open-source/sdk-codegen/commit/52e3ef31a6157a6a544bf712a73d118d22913583))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @looker/code-editor bumped from ^0.1.10 to ^0.1.11
+    * @looker/run-it bumped from ^0.9.19 to ^0.9.20
+    * @looker/sdk bumped from ^21.14.0 to ^21.15.0
+    * @looker/sdk-codegen bumped from ^21.0.25 to ^21.1.0
+    * @looker/sdk-rtl bumped from ^21.0.20 to ^21.1.0
+  * devDependencies
+    * @looker/sdk-codegen-scripts bumped from ^21.0.27 to ^21.0.28
+    * @looker/sdk-node bumped from ^21.14.0 to ^21.14.1
+
 ### [0.9.19](https://www.github.com/looker-open-source/sdk-codegen/compare/api-explorer-v0.9.18...api-explorer-v0.9.19) (2021-09-01)
 
 

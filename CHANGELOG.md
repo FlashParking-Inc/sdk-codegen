@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.16.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v1.15.0...sdk-codegen-all-v1.16.0) (2021-09-28)
+
+
+### Features
+
+* closest path match for API Explorer ([#811](https://www.github.com/looker-open-source/sdk-codegen/issues/811)) ([45fd26f](https://www.github.com/looker-open-source/sdk-codegen/commit/45fd26fb0f325fa90edfec72f835ed3a79b9afeb))
+* lots of RunIt form cleanup ([#814](https://www.github.com/looker-open-source/sdk-codegen/issues/814)) ([e92eae8](https://www.github.com/looker-open-source/sdk-codegen/commit/e92eae8fc127a0aa99545ca9c577152c08d59000))
+* Update Kotlin SDK to use Gson instead of Jackson ([#836](https://www.github.com/looker-open-source/sdk-codegen/issues/836)) ([4d1f789](https://www.github.com/looker-open-source/sdk-codegen/commit/4d1f789fa3b97b0808f06d5d547c96de3ca890ff))
+
+
+### Bug Fixes
+
+* Extension Api Explorer markdown link clicks ([#830](https://www.github.com/looker-open-source/sdk-codegen/issues/830)) ([dd8a3f0](https://www.github.com/looker-open-source/sdk-codegen/commit/dd8a3f03b8ea03858271bf55307c7d359631455a))
+* intrinsic type params are not Partial<T> ([#819](https://www.github.com/looker-open-source/sdk-codegen/issues/819)) ([4b31490](https://www.github.com/looker-open-source/sdk-codegen/commit/4b31490f7ce5c9593854e56518245c5399ea9548))
+* Property names with special characters in Kotlin SDK ([#838](https://www.github.com/looker-open-source/sdk-codegen/issues/838)) ([40b6b24](https://www.github.com/looker-open-source/sdk-codegen/commit/40b6b24bfedf8ba16b5dbae2abbbdce2f73c1ffd))
+* Sidenav selection ([#831](https://www.github.com/looker-open-source/sdk-codegen/issues/831)) ([52e3ef3](https://www.github.com/looker-open-source/sdk-codegen/commit/52e3ef31a6157a6a544bf712a73d118d22913583))
+
 ## [1.15.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v1.14.0...sdk-codegen-all-v1.15.0) (2021-09-01)
 
 
